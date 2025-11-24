@@ -156,7 +156,6 @@ Solution: Store NULLs, never break the pipeline.
 OMDb throttles large sequential requests.
 Solution: Add short delays.
 
-⸻
 
 Requirements
 pandas
